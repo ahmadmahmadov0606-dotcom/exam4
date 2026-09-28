@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tg\n"
+
+msgid "This field may not be blank."
+msgstr "Ин майдонро пур кунед."
+
+msgid "This field may not be null."
+msgstr "Ин майдонро пур кунед."
+
+msgid "This field is required."
+msgstr "Ин майдонро пур кунед."
+
+msgid "A valid integer is required."
+msgstr "Рақами бутун ворид кунед."
+
+msgid "A valid number is required."
+msgstr "Рақам ворид кунед."
+
+msgid "Not found."
+msgstr "Ёфт нашуд."
+
+msgid "Authentication credentials were not provided."
+msgstr "Барои ин амал ба ҳисоби худ ворид шавед."
+
+msgid "You do not have permission to perform this action."
+msgstr "Шумо барои ин амал иҷозат надоред."
+
+msgid "Invalid page."
+msgstr "Чунин саҳифа нест."
+
+msgid "Date has wrong format. Use one of these formats instead: {format}."
+msgstr "Санаро дуруст ворид кунед."
+
+msgid "Time has wrong format. Use one of these formats instead: {format}."
+msgstr "Вақтро дуруст ворид кунед."
+
+msgid "Ensure this value is greater than or equal to {min_value}."
+msgstr "Қимат бояд на камтар аз {min_value} бошад."
+
+msgid "Ensure this value is less than or equal to {max_value}."
+msgstr "Қимат бояд на зиёдтар аз {max_value} бошад."
+
+msgid "Ensure this field has no more than {max_length} characters."
+msgstr "На зиёдтар аз {max_length} аломат."
+
+msgid "\"{input}\" is not a valid choice."
+msgstr "«{input}» интихоби дуруст нест."
+
+msgid "Invalid pk \"{pk_value}\" - object does not exist."
+msgstr "Чунин объект вуҷуд надорад."
+
+msgid "Upload a valid image. The file you uploaded was either not an image or a corrupted image."
+msgstr "Сурати дуруст (JPG ё PNG) бор кунед."
+
+msgid "Enter a valid email address."
+msgstr "Почтаи электрониро дуруст ворид кунед."
+
+msgid "Given token not valid for any token type"
+msgstr "Сессия ба охир расид. Дубора ворид шавед."
+
+msgid "Token is invalid or expired"
+msgstr "Сессия ба охир расид. Дубора ворид шавед."
